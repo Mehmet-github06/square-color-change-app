@@ -18,12 +18,12 @@ body {
 }
 
 .square{
-    background-color: black;
+    background-color: #111;
     height: 1rem;
     width: 1rem;
     margin: 2px;
     box-shadow: 0 0 2px #000;
-    transition: 2s ease;
+    transition: 5s ease;
 
 }
 .square:hover{

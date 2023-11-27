@@ -21,6 +21,7 @@ for (let i = 0; i < SQUARE; i++) {
   square.classList.add("square");
 
   square.addEventListener("mouseover", () => setColor(square));
+  square.addEventListener("mouseout", () => removeColor(square));
 
   container.appendChild(square);
 }
@@ -37,5 +38,6 @@ function getRandomColor() {
 }
 function removeColor(div){
     div.style.backgroundColor = "#111"
+    div.style.boxShadow="0 0 2px #000"
 
 }
