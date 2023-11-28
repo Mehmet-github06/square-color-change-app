@@ -1,6 +1,10 @@
 # Square Color Change App
 
-![App Logo](link/to/logo.png)
+<br />
+<div align="center" id="readme-top">
+  <a href="#">
+    <img src="./images.jpeg" alt="Logo" width="80" height="80">
+  </a> <br/><br/><br/>
 
 This simple web application features an impressive effect where a square changes color with a random shadow and background color when hovered over.
 
@@ -19,17 +23,17 @@ The application is developed with responsive design in mind. Additionally, it in
 - Responsive design adapting to screen sizes.
 - Proper functionality on both mobile devices and desktop browsers.
 
-## Screenshots
+## Screen to gif
 
-![App Screenshot](link/to/screenshot.png)
+![App Screenshot](./Animation.gif)
 
 ## Live Demo
 
-To see the application in action, click [here](app-link).
+To see the application in action, click [here](https://square-color-change-app.vercel.app/)
 
 ## Requirements
 
-- Compatible with modern web browsers.
+ Compatible with modern web browsers.
 
 ## Installation
 
